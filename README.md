@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
- 
- <head>
-  
-  <meta charset="utf-8">
-  
-  <title>Моя первая веб-страница</title>
-
+# Мой первый сайт
+ <head
  </head>
  
  <body>
